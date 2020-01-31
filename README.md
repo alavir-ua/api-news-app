@@ -54,8 +54,6 @@ DEFAULT_NEWS_SOURCE_ID='cnn'
 $ php artisan serve
 ```
 ## Links
-[Tutorial](https://fisayoafolayan.com/blog/build-a-news-aggregator-site-with-laravel/)
-
-[Live Demo](https://newsapi.fisayoafolayan.com/)
+[Live Demo](https://api-news24.000webhostapp.com//)
 
 
