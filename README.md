@@ -53,7 +53,6 @@ DEFAULT_NEWS_SOURCE_ID='cnn'
 ```
 $ php artisan serve
 ```
-## Links
-[Live Demo](https://api-news24.000webhostapp.com)
+
 
 
